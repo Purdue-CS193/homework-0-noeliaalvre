@@ -1,8 +1,8 @@
 ## Noelia's First CS193 Homework
 ### My Favorite Things About CS 19300
-- The TAs have experience and genuinely want us to understand the material.
-- We have virutal help on Wednesdays.
-- I am an AI - Philosphy major and this class will teach me how to navigate GitHub. (I have no experience in using GitHub). 
+    - The TAs have experience and genuinely want us to understand the material.
+    - We have virutal help on Wednesdays.
+    - I am an AI - Philosphy major and this class will teach me how to navigate GitHub. (I have no experience in using GitHub). 
 
 
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
