@@ -1,9 +1,14 @@
-## Noelia's First CS193 Homework
+<h1 align = "center">Noelia's First CS193 Homework</h1>
 
-### My Favorite Things About CS 19300
+<h3 align = "center">My Favorite Things About CS 19300</h3>
+    <h4 align = "center">
+        
     - The TAs have experience and genuinely want us to understand the material.
+        
     - We have virutal help on Wednesdays.
+    
     - I am an AI - Philosphy major and this class will teach me how to navigate GitHub. (I have no experience in using GitHub). 
+    
 
 ### **For Future Reference**
 
