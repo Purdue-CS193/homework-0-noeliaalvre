@@ -1,6 +1,6 @@
 ## Noelia's First CS193 Homework
 ### My Favorite Things About CS 19300
-
+theme: jekyll-theme-merlot
 
 
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
