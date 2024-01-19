@@ -1,7 +1,7 @@
 <h1 align = "center">Noelia's First CS193 Homework</h1>
 
 <h3 align = "center">My Favorite Things About CS 19300</h3>
-    <h4 align = "center">
+
         
     - The TAs have experience and genuinely want us to understand the material.
         
