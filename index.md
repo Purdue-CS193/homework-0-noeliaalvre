@@ -1,10 +1,5 @@
 ## Noelia's First CS193 Homework)
 
-<p align="center">
-  <img src="https://github.com/Purdue-CS193/homework-0-noeliaalvre/assets/157081913/0afbb3bb-1ecc-4be4-90ea-dfe2c79c9b43.gif" alt="animated" />
-</p>
-
-
 ### My Favorite Things About CS 19300
     - The TAs have experience and genuinely want us to understand the material.
     - We have virutal help on Wednesdays.
