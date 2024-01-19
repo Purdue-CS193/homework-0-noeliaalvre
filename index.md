@@ -1,4 +1,4 @@
-## Noelia's First CS193 Homework)
+## Noelia's First CS193 Homework
 
 ### My Favorite Things About CS 19300
     - The TAs have experience and genuinely want us to understand the material.
